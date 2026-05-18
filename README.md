@@ -1,16 +1,25 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Zulqarnain2006/Zulqarnain2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```csharp
+class BackendDeveloper {
+    name = "Zulqarnain";
+    title = "Junior Backend Developer";
+    location = "Pakistan";
 
-Here are some ideas to get you started:
+    expertise = {
+        languages: ["C#", "SQL", "TypeScript", "JavaScript", "HTML/CSS"],
+        backend: [".NET Core", "ASP.NET Web API", "Entity Framework Core"],
+        frontend: ["React.js (TSX)", "Tailwind CSS"],
+        databases: ["SQL Server"],
+        devops: ["Docker", "Kubernetes", "SonarQube", "SonarLint"]
+    };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    architecture = [
+        "Microservices Architecture",
+        "RESTful APIs & MVC",
+        "Repository Design Pattern",
+        "Clean Code & Database Optimization"
+    ];
+
+    currentlyBuilding = "Scalable Web Applications & Car Rental System Backend";
+}
